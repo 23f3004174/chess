@@ -1,4 +1,4 @@
-# Auto-generated README (Round 1)
+# Auto-generated README (Round 2)
 
 **Project brief:** Build a FastAPI web app chess game .
 
